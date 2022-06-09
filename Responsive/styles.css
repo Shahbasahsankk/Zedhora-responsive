@@ -1,0 +1,107 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    color: #424242;
+}
+.img-1{
+    padding-left: 40px;
+}
+.aa:hover{
+  color: #387ed1;
+}
+.hand-burg{
+    font-size: x-large;
+}
+.navs{
+     padding: 0 10px;
+}
+.img-2{
+    width: 11.5cm;
+    padding-top: 140px;
+}
+.img-3{
+    padding-top: 140px;
+}
+.head{
+    padding-top: 60px;
+    font-size: 48px;
+}
+.sub-head{
+    padding-top: 18px;
+    font-size: 21px;
+}
+.sign-butn{
+    background-color: #387ed1;
+    padding: 6px 37px 10px 37px;
+}
+.sign-butn:hover{
+    background-color:#424242 ;
+}
+.largest{
+    margin-top: 170px;
+   
+}
+.ind{
+    font-size: 36px;
+    margin-top: 40px;
+}
+.lists-2{
+    padding: 3px;
+}
+.zerodha{
+    margin-top: 140px;
+}
+.tailored{
+    margin-top: -15px;
+}
+.img-4{
+    margin: 0px 10% 0px 10%;
+}
+.arrow{
+    font-size: 12px;
+    font-weight: 500;
+}
+.products{
+    font-weight: 500;
+}
+.products:hover{
+    color: #444;
+}
+.rw-1{
+    margin: 110px 5% 0px 15%;
+}
+.rw-2{
+    margin: 10px 5% 0px 15%;
+}
+.pricing:hover{
+    color: #444;
+}
+.rw-3{
+    padding-top: 5rem;
+}
+.watermark{
+    font-size: 14px;
+}
+.watermark-2{
+    font-size: 14px;
+    margin-top: -8px;
+}
+.rw-4{
+    margin-top: 100px;
+}
+.a-link h6:hover{
+    color: #387ed1;
+}
+.soc{
+    font-size: larger;
+    padding-left: 10px;
+}
+.soc:hover{
+    color: #387ed1;
+    cursor: pointer;
+}
+.fa-twitter:hover{
+    color: #387ed1;
+    cursor: pointer;
+} 

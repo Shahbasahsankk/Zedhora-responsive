@@ -31,11 +31,28 @@
     padding-top: 18px;
     font-size: 21px;
 }
-.sign-butn{
+.test-butn{
+    color: white;
+    border: none;
+    border-radius: 5px;
     background-color: #387ed1;
-    padding: 6px 37px 10px 37px;
+    padding: 9px 43px 9px 39px;
+    margin-top: 40px;
+    font-size: x-large;
 }
-.sign-butn:hover{
+.test-butn:hover{
+    background-color:#424242 ;
+}
+.test-butn2{
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background-color: #387ed1;
+    padding: 9px 43px 9px 39px;
+    margin-top: 30px;
+    font-size: x-large;
+}
+.test-butn2:hover{
     background-color:#424242 ;
 }
 .largest{
